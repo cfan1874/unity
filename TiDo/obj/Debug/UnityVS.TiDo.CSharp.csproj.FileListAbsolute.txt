@@ -1,0 +1,11 @@
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\U3D\TiDo\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\U3D\TiDo\obj\Debug\Assembly-CSharp.dll
+E:\U3D\TiDo\obj\Debug\Assembly-CSharp.pdb
+E:\U3D\TiDo\obj\Debug\UnityVS.TiDo.CSharp.csprojResolveAssemblyReference.cache
